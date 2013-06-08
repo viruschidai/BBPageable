@@ -1,0 +1,4 @@
+BBPageableCollection-
+=====================
+
+Pageable Backbone Collections.
