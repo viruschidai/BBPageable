@@ -8,7 +8,6 @@ Pageable Backbone Collections.
 Each page is requested from server. You need to program you server side to
 support pagination.
 
-###live example
 
 ##Client side pageable
 
@@ -18,4 +17,5 @@ request. You can also bootstrap all data with html to reduce the number of
 request and also make you application more responsible.
 
 ###live example
+[Backbone Table](http://bbtable.aws.af.cm/#!)
 
